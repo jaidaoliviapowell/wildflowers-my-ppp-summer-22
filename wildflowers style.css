@@ -1,0 +1,47 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  background-color: #f7abbaff;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: white;
+}
+.container img {
+  height: 500px;
+  width: 500px;
+}
+.container {
+  text-align: center;
+}
+.container a {
+  color: white;
+}
+.class row {
+  display: inline-block;
+}
+h3 {
+  color: white;
+}
+/* images and videos max out at full width */
+
+img {
+  height: 600px;
+  width: 2000px;
+  max-width: 100%;
+}
