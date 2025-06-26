@@ -15,7 +15,7 @@ This repository was developed as part of the “PPP Summer ’22” initiative a
 
 ---
 
-## 🙈 How to View It
+## 🙈 how to view 
 
 To explore locally:
 
