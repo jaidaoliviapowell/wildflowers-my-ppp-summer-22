@@ -1,10 +1,10 @@
-# 🌼 Wildflowers: My PPP Summer ’22
+# 🌸 wildflowers: My personal portfolio project - summer ’22
 
 A creative project documenting beautiful wildflowers observed during the summer of 2022—perfect for science fairs, biodiversity portfolios, or personal passion projects.
 
 ---
 
-## 📚 Overview
+## 💞 overview
 
 This repository was developed as part of the “PPP Summer ’22” initiative and showcases:
 
@@ -15,11 +15,7 @@ This repository was developed as part of the “PPP Summer ’22” initiative a
 
 ---
 
-## 📂 Project Structure
-
----
-
-## 🛠️ How to View It
+## 🙈 How to View It
 
 To explore locally:
 
